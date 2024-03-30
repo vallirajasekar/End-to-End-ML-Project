@@ -10,7 +10,7 @@ conda activate mlproj
 
 '''
 
-update config.yaml--> 
+update config.yaml--> If we need to update the path we can change here directly 
 update schema.yaml--->Model training Part
 update params.yaml--->
 update the entity-->
