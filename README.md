@@ -19,3 +19,8 @@ update the components--> data_ingestion etc
 update the pipeline--> upgrade the Pipeline
 update the main.py--->Trigger will execute the pipeline
 update the app.py---> app.py 
+
+
+
+python3 app.py
+Local_Host-http://127.0.0.1:8080
